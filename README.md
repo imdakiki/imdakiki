@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Loona!
+- 👋 Hi, I’m Kat!
 - 👀 I’m interested in Emo music & Emos
 - 🌱 I’m currently learning discord.js
 - 💞️ I’m looking to collaborate on Anything
-- 📫 How to reach me DM me at loonyytoony (Chirpy#0001) on Discord
+- 📫 How to reach me DM me at qefw (Chirpy#0001) on Discord
 - 😄 Pronouns: she/her or they/them
 - ⚡ Fun fact: I have nothing to put here yet
 
